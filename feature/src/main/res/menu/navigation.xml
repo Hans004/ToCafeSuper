@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_account_circle_white_18dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_cafe"
+        android:icon="@drawable/baseline_local_cafe_white_18dp"
+        android:title="@string/title_cafe" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/baseline_shopping_cart_white_18dp"
+        android:title="@string/title_cart" />
+
+    <item
+        android:id="@+id/navigation_store"
+        android:icon="@drawable/baseline_store_white_18dp"
+        android:title="@string/title_store" />
+
+</menu>

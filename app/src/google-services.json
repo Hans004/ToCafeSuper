@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596768460938",
+    "firebase_url": "https://tocafesuper.firebaseio.com",
+    "project_id": "tocafesuper",
+    "storage_bucket": "tocafesuper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596768460938:android:14096ce19d7fc1ea",
+        "android_client_info": {
+          "package_name": "com.hbr.app.feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596768460938-6q1q6rq9lvqh705pem72smumtnpeou11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hbr.app.feature",
+            "certificate_hash": "097e16aff8c6e62c456895556282d7d1e77369f2"
+          }
+        },
+        {
+          "client_id": "596768460938-48ca07bkhqqgrme1ag0kpirrfk2qel9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevLitHlk9KJlFabhWwiwhCkj2WHjhBac"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596768460938-48ca07bkhqqgrme1ag0kpirrfk2qel9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

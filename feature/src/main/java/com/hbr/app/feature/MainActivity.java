@@ -1,13 +1,9 @@
 package com.hbr.app.feature;
 
 import android.os.Bundle;
-
 import androidx.annotation.NonNull;
-
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.view.MenuItem;
 import android.widget.TextView;
 

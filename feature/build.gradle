@@ -18,10 +18,10 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.0-alpha4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'
-    compile 'com.google.firebase:firebase-auth:16.0.3'
-    compile 'com.google.firebase:firebase-database:16.0.1'
-    compile 'com.google.firebase:firebase-core:16.0.1'
-    compile 'com.google.firebase:firebase-messaging:17.3.0'
+    api 'com.google.firebase:firebase-auth:16.0.3'
+    api 'com.google.firebase:firebase-database:16.0.1'
+    api 'com.google.firebase:firebase-core:16.0.1'
+    api 'com.google.firebase:firebase-messaging:17.3.0'
 
 }
 apply plugin: 'com.google.gms.google-services'
